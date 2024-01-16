@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Front-End development**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Angular**
+- 💬 Ask me about **Angular & React** 
 
 - 📫 How to reach me **beruashvilinika6@gmail.com**
 
